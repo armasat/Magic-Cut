@@ -6,6 +6,7 @@ Magic Cut is an auto-clicker made in BASH
   - shuf
   - head
   - xdotool
+  - bc
   
 # Install
 Download or Clone the repo to an empty scratch directory and make the shell scripts executable
